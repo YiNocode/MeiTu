@@ -1,2 +1,19 @@
-# MeiTu
-一个基于uni-app框架开发的微信小程序，可以用于图片或视频的展示
+# my_project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

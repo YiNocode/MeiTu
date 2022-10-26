@@ -17,7 +17,7 @@ import swipper from "@/components/swipper";
 					"../static/pictures/2.jpg",
 					"../static/pictures/3.jpg",
 					"../static/pictures/4.jpg",
-					"../static/pictures/5.jpg",
+					"../static/pictures/5.jpeg",
 					"../static/pictures/6.jpg"],
 				curSrc:"",
 				curId:0
